@@ -56,4 +56,8 @@
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Pulkit0719/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

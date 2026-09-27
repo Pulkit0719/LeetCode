@@ -47,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pulkit0719/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

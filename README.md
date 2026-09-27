@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pulkit0719/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
@@ -66,6 +67,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Pulkit0719/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pulkit0719/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

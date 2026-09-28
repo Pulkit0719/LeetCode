@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pulkit0719/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Pulkit0719/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pulkit0719/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pulkit0719/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pulkit0719/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

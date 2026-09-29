@@ -58,6 +58,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

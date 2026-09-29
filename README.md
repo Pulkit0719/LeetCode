@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -59,6 +60,7 @@
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -66,6 +68,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pulkit0719/LeetCode/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
@@ -102,6 +105,7 @@
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |

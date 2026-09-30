@@ -85,6 +85,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
@@ -102,6 +103,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pulkit0719/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Pulkit0719/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |

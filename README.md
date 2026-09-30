@@ -80,6 +80,7 @@
 | [0001-two-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pulkit0719/LeetCode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
@@ -88,6 +89,7 @@
 | [0014-longest-common-prefix](https://github.com/Pulkit0719/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pulkit0719/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
+| [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +152,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |

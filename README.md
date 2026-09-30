@@ -12,6 +12,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Pulkit0719/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Pulkit0719/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -22,6 +23,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Pulkit0719/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Pulkit0719/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -43,6 +45,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Pulkit0719/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Pulkit0719/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
@@ -92,6 +95,7 @@
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
+| [0606-construct-string-from-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pulkit0719/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |

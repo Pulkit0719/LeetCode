@@ -72,6 +72,7 @@
 | [0014-longest-common-prefix](https://github.com/Pulkit0719/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/Pulkit0719/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Pulkit0719/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
 ## Trie
 |  |

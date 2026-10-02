@@ -77,6 +77,7 @@
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pulkit0719/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List
@@ -198,6 +201,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,5 +215,10 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

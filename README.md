@@ -54,6 +54,7 @@
 | [0022-generate-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
+| [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -106,6 +107,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 | [0606-construct-string-from-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pulkit0719/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -128,6 +130,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pulkit0719/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pulkit0719/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Pulkit0719/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pulkit0719/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -139,6 +142,7 @@
 | [0020-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pulkit0719/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -227,4 +231,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

@@ -67,6 +67,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Pulkit0719/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+| [0301-remove-invalid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 | [0606-construct-string-from-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -224,6 +226,7 @@
 | [0039-combination-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Pulkit0719/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |

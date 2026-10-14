@@ -21,6 +21,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pulkit0719/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pulkit0719/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Pulkit0719/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -66,6 +67,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Pulkit0719/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Pulkit0719/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Array
@@ -82,6 +84,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -252,4 +255,12 @@
 | [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pulkit0719/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pulkit0719/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

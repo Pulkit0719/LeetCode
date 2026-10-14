@@ -88,6 +88,7 @@
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Pulkit0719/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Pulkit0719/LeetCode/tree/master/0463-island-perimeter) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -98,6 +99,7 @@
 | [0001-two-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pulkit0719/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Pulkit0719/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Pulkit0719/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List

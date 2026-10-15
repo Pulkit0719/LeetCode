@@ -34,6 +34,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Pulkit0719/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/Pulkit0719/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -93,6 +94,7 @@
 | [0217-contains-duplicate](https://github.com/Pulkit0719/LeetCode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Pulkit0719/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/Pulkit0719/LeetCode/tree/master/0463-island-perimeter) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -104,6 +106,7 @@
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pulkit0719/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -180,6 +183,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/Pulkit0719/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
@@ -207,6 +211,7 @@
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pulkit0719/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |

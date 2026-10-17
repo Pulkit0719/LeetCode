@@ -253,6 +253,7 @@
 | [0039-combination-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pulkit0719/LeetCode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
@@ -287,4 +288,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Pulkit0719/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->

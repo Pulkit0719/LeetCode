@@ -64,6 +64,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/Pulkit0719/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0466-count-the-repetitions](https://github.com/Pulkit0719/LeetCode/tree/master/0466-count-the-repetitions) |
@@ -95,6 +96,7 @@
 | [0035-search-insert-position](https://github.com/Pulkit0719/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Pulkit0719/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pulkit0719/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pulkit0719/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Pulkit0719/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -207,6 +210,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Pulkit0719/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -355,4 +359,8 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Pulkit0719/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

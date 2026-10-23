@@ -142,6 +142,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Pulkit0719/LeetCode/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Pulkit0719/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -212,6 +213,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Pulkit0719/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pulkit0719/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |

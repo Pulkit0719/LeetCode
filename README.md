@@ -72,6 +72,7 @@
 | [0466-count-the-repetitions](https://github.com/Pulkit0719/LeetCode/tree/master/0466-count-the-repetitions) |
 | [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pulkit0719/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3693-climbing-stairs-ii](https://github.com/Pulkit0719/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Pulkit0719/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -120,6 +121,7 @@
 | [0463-island-perimeter](https://github.com/Pulkit0719/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Pulkit0719/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/Pulkit0719/LeetCode/tree/master/0733-flood-fill) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pulkit0719/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pulkit0719/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -182,6 +184,7 @@
 | [0009-palindrome-number](https://github.com/Pulkit0719/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pulkit0719/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pulkit0719/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
@@ -398,5 +401,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pulkit0719/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pulkit0719/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->

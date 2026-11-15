@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pulkit0719/LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Pulkit0719/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -101,6 +102,7 @@
 | [0014-longest-common-prefix](https://github.com/Pulkit0719/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pulkit0719/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pulkit0719/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Pulkit0719/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0040-combination-sum-ii) |

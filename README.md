@@ -233,6 +233,7 @@
 | [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pulkit0719/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Pulkit0719/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Pulkit0719/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Pulkit0719/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Pulkit0719/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pulkit0719/LeetCode/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Pulkit0719/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pulkit0719/LeetCode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pulkit0719/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/Pulkit0719/LeetCode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Pulkit0719/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
@@ -407,4 +411,8 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pulkit0719/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pulkit0719/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Pulkit0719/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

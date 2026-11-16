@@ -179,6 +179,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Pulkit0719/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Design
 |  |
 | ------- |

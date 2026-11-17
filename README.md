@@ -75,6 +75,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pulkit0719/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pulkit0719/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Pulkit0719/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Pulkit0719/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## DP on Trees
@@ -181,6 +182,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Pulkit0719/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pulkit0719/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Math
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0466-count-the-repetitions](https://github.com/Pulkit0719/LeetCode/tree/master/0466-count-the-repetitions) |
 | [2000-reverse-prefix-of-word](https://github.com/Pulkit0719/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pulkit0719/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Bit Manipulation
 |  |
 | ------- |

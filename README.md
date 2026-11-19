@@ -45,6 +45,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Pulkit0719/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0938-range-sum-of-bst](https://github.com/Pulkit0719/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -129,6 +130,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pulkit0719/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Pulkit0719/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Pulkit0719/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Pulkit0719/LeetCode/tree/master/0733-flood-fill) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pulkit0719/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |

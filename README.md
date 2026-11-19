@@ -134,6 +134,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pulkit0719/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pulkit0719/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pulkit0719/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pulkit0719/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -292,6 +293,7 @@
 | [0389-find-the-difference](https://github.com/Pulkit0719/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pulkit0719/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pulkit0719/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pulkit0719/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pulkit0719/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pulkit0719/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pulkit0719/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Union-Find
 |  |
 | ------- |

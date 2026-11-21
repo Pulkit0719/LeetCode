@@ -17,6 +17,7 @@
 | [0938-range-sum-of-bst](https://github.com/Pulkit0719/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pulkit0719/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0733-flood-fill](https://github.com/Pulkit0719/LeetCode/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/Pulkit0719/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pulkit0719/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pulkit0719/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pulkit0719/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -137,6 +139,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pulkit0719/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pulkit0719/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pulkit0719/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pulkit0719/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pulkit0719/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -159,6 +162,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pulkit0719/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Pulkit0719/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pulkit0719/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
 | ------- |
@@ -193,6 +197,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Pulkit0719/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pulkit0719/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Pulkit0719/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Math
 |  |
 | ------- |

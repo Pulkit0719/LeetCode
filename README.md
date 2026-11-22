@@ -123,6 +123,7 @@
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/Pulkit0719/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pulkit0719/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -369,6 +370,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pulkit0719/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Pulkit0719/LeetCode/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/Pulkit0719/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pulkit0719/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pulkit0719/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |

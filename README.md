@@ -76,6 +76,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/Pulkit0719/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Pulkit0719/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0466-count-the-repetitions](https://github.com/Pulkit0719/LeetCode/tree/master/0466-count-the-repetitions) |
 | [0509-fibonacci-number](https://github.com/Pulkit0719/LeetCode/tree/master/0509-fibonacci-number) |
@@ -129,6 +130,7 @@
 | [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pulkit0719/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pulkit0719/LeetCode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Pulkit0719/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Pulkit0719/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Pulkit0719/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -394,6 +396,7 @@
 | [0036-valid-sudoku](https://github.com/Pulkit0719/LeetCode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Pulkit0719/LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/Pulkit0719/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Pulkit0719/LeetCode/tree/master/0733-flood-fill) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pulkit0719/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |

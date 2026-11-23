@@ -119,6 +119,7 @@
 | [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Pulkit0719/LeetCode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Pulkit0719/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Pulkit0719/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -176,6 +177,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Pulkit0719/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Pulkit0719/LeetCode/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Pulkit0719/LeetCode/tree/master/0344-reverse-string) |
@@ -280,6 +282,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Pulkit0719/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Pulkit0719/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Pulkit0719/LeetCode/tree/master/0068-text-justification) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pulkit0719/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Design
 |  |

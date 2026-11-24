@@ -147,6 +147,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pulkit0719/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Pulkit0719/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pulkit0719/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit0719/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pulkit0719/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/Pulkit0719/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -218,6 +219,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Pulkit0719/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pulkit0719/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pulkit0719/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit0719/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pulkit0719/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -451,6 +453,7 @@
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/Pulkit0719/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pulkit0719/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit0719/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -466,4 +469,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pulkit0719/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit0719/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pulkit0719/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

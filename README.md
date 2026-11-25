@@ -77,6 +77,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Pulkit0719/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pulkit0719/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pulkit0719/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/Pulkit0719/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Pulkit0719/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0466-count-the-repetitions](https://github.com/Pulkit0719/LeetCode/tree/master/0466-count-the-repetitions) |
@@ -126,6 +127,7 @@
 | [0088-merge-sorted-array](https://github.com/Pulkit0719/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pulkit0719/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Pulkit0719/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pulkit0719/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Pulkit0719/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Pulkit0719/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pulkit0719/LeetCode/tree/master/0200-number-of-islands) |
